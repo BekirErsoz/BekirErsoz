@@ -5,6 +5,7 @@ AI engineer, industrial engineer and technical founder based in İstanbul. I bui
 **Website:** [bekirersoz.com](https://bekirersoz.com) · [LinkedIn](https://www.linkedin.com/in/bekir-ersoz/) · [Medium](https://medium.com/@bekir.ersoz)
 
 ### Now
+- **Software Engineer**, Vitadoza (since October 2026)
 - **Founder**, Ersoz Industries
 - **AI Engineer**, Baykar AI
 - **AI Engineer**, T3 AI'LE
