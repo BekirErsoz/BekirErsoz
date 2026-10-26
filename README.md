@@ -5,9 +5,13 @@ AI engineer, industrial engineer and technical founder based in İstanbul. I bui
 **Website:** [bekirersoz.com](https://bekirersoz.com) · [LinkedIn](https://www.linkedin.com/in/bekir-ersoz/) · [Medium](https://medium.com/@bekir.ersoz)
 
 ### Now
-- **Founder & CEO**, IntelliPlay Studios — AI-driven games and intelligent systems
-- **AI Engineer**, T3 AI'LE
+- **Founder**, Ersoz Industries
 - **AI Engineer**, Baykar AI
+- **AI Engineer**, T3 AI'LE
+
+### Previously
+- **Founder & CEO**, IntelliPlay Studios — AI-driven games (NeuralBound)
+- **Founder & CEO**, STARD — mobile, web and decentralised apps
 
 ### Education
 - M.Sc. Computer Engineering, İstanbul Rumeli Üniversitesi (full scholarship)
